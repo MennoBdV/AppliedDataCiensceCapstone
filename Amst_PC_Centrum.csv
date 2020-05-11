@@ -1,0 +1,7 @@
+id,postcode,"woonplaats","wijk","gemeente","provincie","netnummer",latitude,longitude,"soort"
+01,1011,"Amsterdam","Lastage, Oosterdokseiland, Rapenburg, Uilenburg, Valkenburg, Waterlooplein","Amsterdam","Noord-Holland","020",52.3729762,4.9039565,"Adres"
+02,1012,"Amsterdam","Burgwallen (Oudezijde en Nieuwezijde)","Amsterdam","Noord-Holland","020",52.3733862,4.8940639,"Adres"
+03,1015,"Amsterdam","Noordwestelijke Grachtengordel, Noord-Jordaan, Marnixplein","Amsterdam","Noord-Holland","020",52.3790928,4.885109,"Adres"
+04,1016,"Amsterdam","Westelijke Grachtengordel, Zuid-Jordaan, Raamplein","Amsterdam","Noord-Holland","020",52.3711467,4.8837046,"Adres"
+05,1017,"Amsterdam","Zuidelijke Grachtengordel, Leidsebuurt, Weteringschans, Frederiksplein, Rembrandtplein","Amsterdam","Noord-Holland","020",52.3641851,4.8907747,"Adres"06
+06,1018,"Amsterdam","Weesperbuurt, Plantage, Sarphatistraat, Kadijken, Oostelijke Eilanden, Czaar Peterbuurt","Amsterdam","Noord-Holland","020",52.3683871,4.9180909,"Adres"
